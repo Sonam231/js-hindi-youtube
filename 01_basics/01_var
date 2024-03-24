@@ -1,0 +1,15 @@
+const accountId = 144553;
+let accountEmail="hitesh@gmail.com";
+var accountPswd="12345";
+accountCity="Jaipur";
+//accountId=2; --not allowed beacause it is constant
+console.log(accountId) 
+accountEmail="hac@gmail.com";
+accountPswd="2121212";
+accountCity="bangaluru";
+console.log(accountPswd);
+console.table([accountId,accountEmail,accountPswd]);
+/*
+prefer not to use var beacuse of issue in block scope and functional scope*/
+let accountState;
+console.log(accountState);
