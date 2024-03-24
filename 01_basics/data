@@ -1,5 +1,14 @@
-"use strict"; //treat all JS code as newer version;
+/*"use strict"; //treat all JS code as newer version;
 //alert("hello");
 let age=18;
 console.log(typeof "hitesh");
 console.log(typeof age);
+let score=0;
+console.log(typeof score);
+console.log(typeof (score));
+let valueInNumber=Number(score);
+console.log(typeof valueInNumber);
+console.log( valueInNumber);
+let isLoggedIn="hitesh";
+let booleanIsLoggedIn =Boolean(isLoggedIn);
+console.log(booleanIsLoggedIn);*/
